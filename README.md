@@ -1,0 +1,1 @@
+# types-ipfs-http-client
